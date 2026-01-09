@@ -17,7 +17,6 @@ export default defineConfig({
                 'resources/js/admin/employee.js',
                 'resources/js/admin/user.js',
                 'resources/js/user/verification.js',
-                'resources/js/patientrecord.js',
             ],
             refresh: true,
         }),
