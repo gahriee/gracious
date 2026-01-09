@@ -1,0 +1,94 @@
+{
+  "_index-B9ygI19o.js": {
+    "file": "assets/index-B9ygI19o.js",
+    "name": "index"
+  },
+  "public/images/index/waves.png": {
+    "file": "assets/waves-Dfgsy6BO.png",
+    "src": "public/images/index/waves.png"
+  },
+  "public/images/index/waves2.png": {
+    "file": "assets/waves2-DPb2tJcy.png",
+    "src": "public/images/index/waves2.png"
+  },
+  "public/images/index/waves3.png": {
+    "file": "assets/waves3-DoAO0alk.png",
+    "src": "public/images/index/waves3.png"
+  },
+  "resources/js/admin/dashboard.js": {
+    "file": "assets/dashboard-qBB7OJ8m.js",
+    "name": "dashboard",
+    "src": "resources/js/admin/dashboard.js",
+    "isEntry": true,
+    "imports": [
+      "_index-B9ygI19o.js"
+    ]
+  },
+  "resources/js/admin/employee.js": {
+    "file": "assets/employee-YIzSKAJU.js",
+    "name": "employee",
+    "src": "resources/js/admin/employee.js",
+    "isEntry": true,
+    "imports": [
+      "_index-B9ygI19o.js"
+    ]
+  },
+  "resources/js/admin/user.js": {
+    "file": "assets/user-BnMEkaip.js",
+    "name": "user",
+    "src": "resources/js/admin/user.js",
+    "isEntry": true,
+    "imports": [
+      "_index-B9ygI19o.js"
+    ]
+  },
+  "resources/js/user/verification.js": {
+    "file": "assets/verification-21Bwk9qa.js",
+    "name": "verification",
+    "src": "resources/js/user/verification.js",
+    "isEntry": true,
+    "imports": [
+      "_index-B9ygI19o.js"
+    ]
+  },
+  "resources/scss/admin/admindashboard.scss": {
+    "file": "assets/admindashboard-B8828_87.css",
+    "src": "resources/scss/admin/admindashboard.scss",
+    "isEntry": true
+  },
+  "resources/scss/admin/adminemployee.scss": {
+    "file": "assets/adminemployee-BcI68DZo.css",
+    "src": "resources/scss/admin/adminemployee.scss",
+    "isEntry": true
+  },
+  "resources/scss/admin/adminlogin.scss": {
+    "file": "assets/adminlogin-C9hES8Ja.css",
+    "src": "resources/scss/admin/adminlogin.scss",
+    "isEntry": true
+  },
+  "resources/scss/index.scss": {
+    "file": "assets/index-qzGdHRw-.css",
+    "src": "resources/scss/index.scss",
+    "isEntry": true
+  },
+  "resources/scss/modal.scss": {
+    "file": "assets/modal-BIG9nMF5.css",
+    "src": "resources/scss/modal.scss",
+    "isEntry": true
+  },
+  "resources/scss/sidebar.scss": {
+    "file": "assets/sidebar-BNFqdvnD.css",
+    "src": "resources/scss/sidebar.scss",
+    "isEntry": true
+  },
+  "resources/scss/user/userlogin.scss": {
+    "file": "assets/userlogin-BoiFT4p3.css",
+    "src": "resources/scss/user/userlogin.scss",
+    "isEntry": true
+  },
+  "resources/scss/user/userregister.scss": {
+    "file": "assets/userregister-XZ0ZsaJn.css",
+    "src": "resources/scss/user/userregister.scss",
+    "isEntry": true
+  }
+}
